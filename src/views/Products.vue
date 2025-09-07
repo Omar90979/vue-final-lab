@@ -210,7 +210,7 @@ function handleAdd(product) {
 
 .search-input .form-control {
   background: rgba(255, 255, 255, 0.1);
-  border: 1px solid rgba(255, 255, 255, 0.2);
+  border: 1px solid rgb(0, 0, 0);
   border-radius: 12px;
   color: rgb(2, 2, 2);
   padding: 1rem 1rem 1rem 3rem;
@@ -235,7 +235,7 @@ function handleAdd(product) {
 
 .modern-select {
   background: rgba(255, 255, 255, 0.1);
-  border: 1px solid rgba(255, 255, 255, 0.2);
+  border: 1px solid rgb(18, 18, 18);
   border-radius: 12px;
   color: rgb(0, 0, 0);
   padding: 1rem;
@@ -251,7 +251,7 @@ function handleAdd(product) {
 }
 
 .modern-select option {
-  background: #1e293b;
+  background: #f1f1f2;
   color: rgb(0, 0, 0);
 }
 
@@ -327,7 +327,7 @@ function handleAdd(product) {
   background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-light) 100%);
   border: none;
   border-radius: 12px;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   padding: 0.75rem 1.5rem;
   font-weight: 600;
   transition: all 0.3s ease;

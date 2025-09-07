@@ -359,7 +359,7 @@
 
 .rating-stars i {
   font-size: 2rem;
-  color: var(--color-accent);
+  color: gold;
   filter: drop-shadow(0 2px 4px rgba(245, 158, 11, 0.3));
 }
 
